@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "268158289352",
+    "firebase_url": "https://wecareapp-705e8-default-rtdb.firebaseio.com",
+    "project_id": "wecareapp-705e8",
+    "storage_bucket": "wecareapp-705e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268158289352:android:e4f8fe355fe4d25c7bacfd",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268158289352-8p2tqmlgu1geltiqr2hcfoamh2l9tmhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqgiItRsFwJ_u8BZk3IZVfPOWsAR-EQuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268158289352-8p2tqmlgu1geltiqr2hcfoamh2l9tmhp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "268158289352-7ev3o8n806hmmlbq57ec7h3e2sm3kb6u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wecareapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
