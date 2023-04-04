@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "277097641590",
+    "firebase_url": "https://wecareapp-60f30-default-rtdb.firebaseio.com",
+    "project_id": "wecareapp-60f30",
+    "storage_bucket": "wecareapp-60f30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277097641590:android:3981fe8df02f75a398d157",
+        "android_client_info": {
+          "package_name": "com.example.milestone_wecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277097641590-krvp124g09glkeiqu6f0n5ibjesa72rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZXFFOwSq8MPhRV9ouzhSQ0CQb6T40wqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277097641590-krvp124g09glkeiqu6f0n5ibjesa72rf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "277097641590-sbflmotvvpbh8021i6rfukg951u422bk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.milestoneWecare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
