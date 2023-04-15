@@ -1,0 +1,11 @@
+framework module animated_theme_switcher {
+  umbrella header "animated_theme_switcher-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module animated_theme_switcher.Swift {
+  header "animated_theme_switcher-Swift.h"
+  requires objc
+}

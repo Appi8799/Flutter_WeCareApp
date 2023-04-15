@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCore.build/module.modulemap \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCore/FirebaseCore/Sources/FIRApp.m \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCore/FirebaseCore/Sources/FIRAnalyticsConfiguration.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCore/FirebaseCore/Sources/FIRBundleUtil.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCore/FirebaseCore/Sources/FIRComponentContainerInternal.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCore/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCore/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCore/FirebaseCore/Sources/FIRConfigurationInternal.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCore/FirebaseCore/Sources/FIRFirebaseUserAgent.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCore/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCore/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCore/FirebaseCore/Extension/FIRLogger.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCore/FirebaseCore/Extension/FIROptionsInternal.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/build/macos/Build/Intermediates.noindex/Pods.build/Debug/GoogleUtilities.build/module.modulemap \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/Target\ Support\ Files/GoogleUtilities/GoogleUtilities-umbrella.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULAppEnvironmentUtil.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorable.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorage.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorageUserDefaults.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainStorage.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainUtils.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULNetworkInfo.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULSecureCoding.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULURLSessionDataResponse.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/NSURLSession+GULPromises.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLogger.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLoggerLevel.h \
+  /Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/GoogleUtilities/GoogleUtilities/NSData+zlib/Public/GoogleUtilities/GULNSData+zlib.h

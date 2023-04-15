@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "1ef4a69bdbf6a1a37b6c3b6a788a78956fa2bbcb389a17ac599809d568923646"
+build_start_time: [1681141454, 408181000]
+build_end_time: [1681141482, 867674000]
+inputs:
+  ? "/Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : [1681141441, 582062914]
+  ? "/Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1681141441, 582462654]
+  ? "/Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1681141441, 582660357]
+  ? "/Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1681141441, 582780770]
+  ? "/Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1681141441, 583135886]
+  ? "/Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : [1681141441, 582224035]
+  ? "/Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : [1681141441, 581818462]
+  ? "/Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1681141441, 583268132]
+  ? "/Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1681141441, 582974890]
+  ? "/Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1681141441, 582355990]
+  ? "/Users/apekshaparmar/cocoapods/milestone_wecare/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1681141441, 582558109]
